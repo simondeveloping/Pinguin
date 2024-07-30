@@ -37,14 +37,13 @@ button {
     width: 10%;
     display: flex;
     justify-content: space-around;
-    display: block;
     position: absolute;
     margin-top: 25%;
 }
 
 #button2 {
-    margin-left: 20%;
-    position: absolute;
+    position: relative;
+   
 }
 
 .button1:hover {
